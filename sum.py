@@ -2,7 +2,7 @@ def sum(x, y):
     return float(x) * float(y)
 
 def main():
- print ("Enter first number:")
+    print ("Enter first number:")
     x = input()
     print ("Enter second number:")
     y = input()
